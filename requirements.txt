@@ -1,0 +1,19 @@
+# telemetry
+arize-phoenix
+openinference-instrumentation-anthropic
+openinference-instrumentation-langchain
+openinference-instrumentation-pydantic-ai
+openinference-instrumentation-crewai
+opentelemetry-exporter-otlp
+
+# sdks
+anthropic
+claude-agent-sdk
+langchain-anthropic
+langgraph
+pydantic-ai
+crewai
+
+# env
+python-dotenv
+ipykernel
